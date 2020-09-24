@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ARSJ13/clean-node/issues"
   },
-  "homepage": "https://github.com/ARSJ13/clean-node#readme"
+  "homepage": "https://github.com/ARSJ13/clean-node#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
 }
