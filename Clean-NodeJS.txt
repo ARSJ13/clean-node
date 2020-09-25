@@ -1,0 +1,13 @@
+libs npm:
+
+- standard - aplica um padrão de sintaxe do javascript ao projeto. O comando 'npx standard' faz essa verificação.
+
+- lint-staged - libera o cadastramento de scripts para rodar nos arquivos incluídos na staged area do git.
+Podendo também ser executado através do comando 'npx lint-staged'.
+
+- husky - permite a criação de hooks, autorizando por exemplo a execução do lint-staged antes de qualquer commit.
+Protegendo a aplicação de commits em desacordo com a estrutura do projeto.
+
+/*TESTE*/
+
+- jest - Lib de testes unitários
